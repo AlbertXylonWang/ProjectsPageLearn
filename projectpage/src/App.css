@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+#titularText{
+  padding: 10px;
+  color:white;
+  margin-left: 40px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.textFieldClass{
+  background-color: white !important;
+  color: white !important;
+}
+body {
+  background-color: #282c34;
+  
+}
+.boxLayout{
+  border: 2px solid whitesmoke;
+  margin: 10px;
+  padding: 10px;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
